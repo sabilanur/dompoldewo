@@ -1,5 +1,5 @@
 {
-  "name": "XinzBot",
+  "name": "BellBoyz",
   "version": "1.0.0",
   "description": "Ga ada",
   "main": "main.js",
@@ -30,10 +30,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Xinz-Team/XinzBot.git"
+    "url": "git+https://github.com/sabilanur/dompoldewo.git"
   },
   "bugs": {
-    "url": "https://github.com/Xinz-Team/XinzBot/issues"
+    "url": "https://github.com/sabilanur/dompoldewo/issues"
   },
-  "homepage": "https://github.com/Xinz-Team/XinzBot#readme"
+  "homepage": "https://github.com/sabilanur/dompoldewo#readme"
 }
